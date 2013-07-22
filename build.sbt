@@ -1,8 +1,8 @@
 organization := "uk.gov.gds"
 
-name := "guice-utils"
+name := "govuk-guice-utils"
 
-version := "1.0-SNAPSHOT"
+version := "0.2-SNAPSHOT"
 
 scalaVersion in ThisProject := "2.10.0"
 
