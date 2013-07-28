@@ -10,7 +10,7 @@ scalacOptions += "-deprecation"
 
 libraryDependencies ++= Seq(
     "com.google.inject" % "guice" % "3.0",
-    "org.scalatest" % "scalatest_2.10" % "1.9.1" % "test"
+    "org.scalatest" %% "scalatest" % "1.9.1" % "test"
 )
 
 parallelExecution in Test := false
